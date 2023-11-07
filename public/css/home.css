@@ -1,0 +1,19 @@
+main {
+  width: 90%;
+  margin: auto;
+}
+.c800 {
+  background-color: var(--bs-gray-800);
+}
+
+.c700 {
+  background-color: var(--bs-gray-700);
+}
+
+.c600 {
+  background-color: var(--bs-gray-700);
+}
+
+.c500 {
+  background-color: var(--bs-gray-700);
+}
